@@ -43,5 +43,5 @@ If [Userstyles.org](https://userstyles.org) isn't working for you, you can insta
 7. At the bottom of the code box, click 'Specify'. Select *'URLs on the domain'* and enter *'meet.google.com'.*
 8. Click the Save button near the left of the screen.
 
-
+---
 **This theme may not be copied and/or redistributed in any way, shape or form.**
