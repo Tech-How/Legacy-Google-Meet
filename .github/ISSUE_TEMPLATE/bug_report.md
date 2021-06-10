@@ -7,4 +7,6 @@ assignees: ''
 
 ---
 
-
+<!--
+Please make sure that the issue you are reporting isn't already a known issue. (See README.md or go back to the main page)
+------------------------------------------------------>
