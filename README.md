@@ -31,27 +31,27 @@ Google is ditching the well-loved classic design of its Meet product. But I wasn
 --Thanks for your support!
 
 ## Known Issues
---Text on Google Meet homepage 'New Meeting' button missing
+- Text on Google Meet homepage 'New Meeting' button missing
 
---Text on 'Something went wrong' 'Rejoin' button missing
+- Text on 'Something went wrong' 'Rejoin' button missing
 
 -----(These missing items are due to the fact that the text on those buttons reuses the same class name. So I had to pick and choose, and I decided that it made more sense to ensure the buttons and text inside of the actual meeting were visible.
 
---Polls, breakout rooms, Q&A, and other G Suite only colors are still blue. Sadly, I do not have my own G Suite account, so I don't have access to the necessary tools to convert the CSS code for those elements :(
+- Polls, breakout rooms, Q&A, and other G Suite only colors are still blue. Sadly, I do not have my own G Suite account, so I don't have access to the necessary tools to convert the CSS code for those elements :(
 
---Captions and Troubleshooter button in menu remains green, because Google reuses classes from the Activities and Add people button
+- Captions and Troubleshooter button in menu remains green, because Google reuses classes from the Activities and Add people button
 
---Change layout menu is still blue
+- Change layout menu is still blue
 
---Graphs in 'Troubleshooting & help' section are still blue (I've looked forever and can't find the class associated with the graphs! If you have an idea, lemme know!)
+- Graphs in 'Troubleshooting & help' section are still blue (I've looked forever and can't find the class associated with the graphs! If you have an idea, lemme know!)
 
---'Raise hand' button green instead of white on G Suite accounts, again, Google reusing classes :/
+- 'Raise hand' button green instead of white on G Suite accounts, again, Google reusing classes :/
 
---No rounded corners on bottom-left meet popups captions and such, they vanish too quickly for me to inspect further.
+- No rounded corners on bottom-left meet popups captions and such, they vanish too quickly for me to inspect further.
 
---Some icons that are usually white now display green
+- Some icons that are usually white now display green
 
---Meeting name appears slightly faint in the 'Meeting details' pane
+- Meeting name appears slightly faint in the 'Meeting details' pane
 
 ## Manual Installation Instructions
 If [Userstyles.org](https://userstyles.org) isn't working for you, you can install the skin manually.
