@@ -1,5 +1,5 @@
 ---
-### *New update coming soon to fix inaccurate coloring, and bring back the old chat/people/background/activities menus without rounded corners! Stay tuned!*
+### *Big update coming soon to fix inaccurate coloring, and bring back the old chat/people/background/activities menus without rounded corners! Stay tuned!*
 ---
 # Legacy Google Meet Project
 
