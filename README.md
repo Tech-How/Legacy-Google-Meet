@@ -9,52 +9,53 @@ Google is ditching the well-loved classic design of its Meet product. But I wasn
 [View release notes & CSS code](https://github.com/Tech-How/Legacy-Google-Meet/releases)
 
 ## 1.5 Alpha Release Notes
---Fixed some elements being green that weren't supposed to
---Changed elements in 'Test audio and video' to green
---Changed dot in captions language selector to green
---Fixed blue call button when adding people via phone number
---Restored red circle around mute icon
---Removed rounded corners from chat and other pop-ups
---Removed warning about messages being deleted when the call ends
---Restored original positions, margins, and line-spacing in chat text box
---Restored green line under chat text box, it shows that you have clicked inside the area.
---Removed blank space under backgrounds tab
---Fixed coloring on 'Your screen is still visible to others' popup
---Changed elements in 'Use a phone for audio' to green
---Changed dismiss button on 'Allow Meet to use your camera and microphone' prompt to green
---Fixed color scheme on present box when user joined via presentation button
---Fixed color scheme on 'What's your name?' screen, including TOS footer
---Fixed gray background on presentation/pinned speaker (again, let me know if it comes back!)
---Fixed rounded corners on bottom-left popups, like captions and raised hands
---Restored original size of 'User is presenting' top banner
---Removed rounded-corners and gaps between people. (Mainly sidebar view, it now looks like the old layout did.)
+- Fixed some elements being green that weren't supposed to
+- Changed elements in 'Test audio and video' to green
+- Changed dot in captions language selector to green
+- Fixed blue call button when adding people via phone number
+- Restored red circle around mute icon
+- Removed rounded corners from chat and other pop-ups
+- Removed warning about messages being deleted when the call ends
+- Restored original positions, margins, and line-spacing in chat text box
+- Restored green line under chat text box, it shows that you have clicked inside the area.
+- Removed blank space under backgrounds tab
+- Fixed coloring on 'Your screen is still visible to others' popup
+- Changed elements in 'Use a phone for audio' to green
+- Changed dismiss button on 'Allow Meet to use your camera and microphone' prompt to green
+- Fixed color scheme on present box when user joined via presentation button
+- Fixed color scheme on 'What's your name?' screen, including TOS footer
+- Fixed gray background on presentation/pinned speaker (again, let me know if it comes back!)
+- Fixed rounded corners on bottom-left popups, like captions and raised hands
+- Restored original size of 'User is presenting' top banner
+- Removed rounded-corners and gaps between people. (Mainly sidebar view, it now looks like the old layout did.)
 
 --Thanks for your support!
 
+
 ## Known Issues
---Faint blue shade appears on some clicked buttons
+- Faint blue shade appears on some clicked buttons
 
---Classic font applies in a few places it didn't used to
+- Classic font applies in a few places it didn't used to
 
---Text-box borders under 'Report abuse' section remain blue (Cannot find the classes)
+- Text-box borders under 'Report abuse' section remain blue (Cannot find the classes)
 
---'More phone numbers' button missing
+- 'More phone numbers' button missing
 
---Icon for the 'Auto' layout still blue
+- Icon for the 'Auto' layout still blue
 
---'Tell us more' button remains white in the troubleshooting pannel
+- 'Tell us more' button remains white in the troubleshooting pannel
 
---Some heading text appears light gray
+- Some heading text appears light gray
 
---'Call me' button remains white
+- 'Call me' button remains white
 
---Some pop-ups appear right up against the control bar
+- Some pop-ups appear right up against the control bar
 
---Polls, breakout rooms, Q&A, meeting streaming, and other G Suite only colors may still be blue. Sadly, I do not have my own G Suite account, so I don't have access to the necessary tools to convert the CSS code for those elements :(
+- Polls, breakout rooms, Q&A, meeting streaming, and other G Suite only colors may still be blue. Sadly, I do not have my own G Suite account, so I don't have access to the necessary tools to convert the CSS code for those elements :(
 
---Graphs in 'Troubleshooting & help' section are still blue (I've looked forever and can't find the class associated with the graphs! If you have an idea, lemme know!)
+- Graphs in 'Troubleshooting & help' section are still blue (I've looked forever and can't find the class associated with the graphs! If you have an idea, lemme know!)
 
---More of a gap between the 'You're presenting' bar and the video
+- More of a gap between the 'You're presenting' bar and the video
 
 
 ## Manual Installation Instructions
