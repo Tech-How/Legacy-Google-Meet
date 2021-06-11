@@ -1,9 +1,6 @@
----
-### *Big update coming soon to fix inaccurate coloring, and bring back the old chat/people/background/activities menus without rounded corners! Stay tuned!*
----
 # Legacy Google Meet Project
 
-<img src="https://i.ibb.co/qMRNy8g/old-google-meet-colors.png"/>
+<img src="https://i.ibb.co/VQ9VY26/old-google-meet-colors.png"/>
 
 Google is ditching the well-loved classic design of its Meet product. But I wasn't just going to sit there and watch it go by. I gathered some tools, hopped on Userstyles.org, and started designing a skin to bring back the classic style of Google Meet. It's currently very early in development, and constantly being worked on. Try it out and let me know what you think!
 
@@ -11,47 +8,54 @@ Google is ditching the well-loved classic design of its Meet product. But I wasn
 
 [View release notes & CSS code](https://github.com/Tech-How/Legacy-Google-Meet/releases)
 
-## 1.4 Alpha Release Notes
-- Fixed 'Asking to join' text not displaying properly
-- Fixed check marks not displaying properly when inviting people
-- Reduced intensity of white borders around some buttons
-- Started to revert fonts to classic design and size
-- Removed clock in bottom-left, as it was not there in the classic design
-- Changed 'Learn more' about google meet to green
-- Changed Allow/Deny box in the problem report section to green
-- Changed elements in the 'Report abuse' section to green
-- Changed tabs in the 'Check audio and video' section to green
-- Changed Deny/Admit entry to green
-- Changed 'Take over from main presenter' to green
-- Changed present toggle button to green
-- Changed 'Copy joining info' button to gray
-- Changed 'Presentation audio' button to green
-- Changed background in 'How was the audio and video?' section to match background
+## 1.5 Alpha Release Notes
+--Fixed some elements being green that weren't supposed to
+--Changed elements in 'Test audio and video' to green
+--Changed dot in captions language selector to green
+--Fixed blue call button when adding people via phone number
+--Restored red circle around mute icon
+--Removed rounded corners from chat and other pop-ups
+--Removed warning about messages being deleted when the call ends
+--Restored original positions, margins, and line-spacing in chat text box
+--Restored green line under chat text box, it shows that you have clicked inside the area.
+--Removed blank space under backgrounds tab
+--Fixed coloring on 'Your screen is still visible to others' popup
+--Changed elements in 'Use a phone for audio' to green
+--Changed dismiss button on 'Allow Meet to use your camera and microphone' prompt to green
+--Fixed color scheme on present box when user joined via presentation button
+--Fixed color scheme on 'What's your name?' screen, including TOS footer
+--Fixed gray background on presentation/pinned speaker (again, let me know if it comes back!)
+--Fixed rounded corners on bottom-left popups, like captions and raised hands
+--Restored original size of 'User is presenting' top banner
+--Removed rounded-corners and gaps between people. (Mainly sidebar view, it now looks like the old layout did.)
 
 --Thanks for your support!
 
 ## Known Issues
-- Text on Google Meet homepage 'New Meeting' button missing
+--Faint blue shade appears on some clicked buttons
 
-- Text on 'Something went wrong' 'Rejoin' button missing
+--Classic font applies in a few places it didn't used to
 
------(These missing items are due to the fact that the text on those buttons reuses the same class name. So I had to pick and choose, and I decided that it made more sense to ensure the buttons and text inside of the actual meeting were visible.
+--Text-box borders under 'Report abuse' section remain blue (Cannot find the classes)
 
-- Polls, breakout rooms, Q&A, and other G Suite only colors are still blue. Sadly, I do not have my own G Suite account, so I don't have access to the necessary tools to convert the CSS code for those elements :(
+--'More phone numbers' button missing
 
-- Captions and Troubleshooter button in menu remains green, because Google reuses classes from the Activities and Add people button
+--Icon for the 'Auto' layout still blue
 
-- Change layout menu is still blue
+--'Tell us more' button remains white in the troubleshooting pannel
 
-- Graphs in 'Troubleshooting & help' section are still blue (I've looked forever and can't find the class associated with the graphs! If you have an idea, lemme know!)
+--Some heading text appears light gray
 
-- 'Raise hand' button green instead of white on G Suite accounts, again, Google reusing classes :/
+--'Call me' button remains white
 
-- No rounded corners on bottom-left meet popups captions and such, they vanish too quickly for me to inspect further.
+--Some pop-ups appear right up against the control bar
 
-- Some icons that are usually white now display green
+--Polls, breakout rooms, Q&A, meeting streaming, and other G Suite only colors may still be blue. Sadly, I do not have my own G Suite account, so I don't have access to the necessary tools to convert the CSS code for those elements :(
 
-- Meeting name appears slightly faint in the 'Meeting details' pane
+--Graphs in 'Troubleshooting & help' section are still blue (I've looked forever and can't find the class associated with the graphs! If you have an idea, lemme know!)
+
+--More of a gap between the 'You're presenting' bar and the video
+
 
 ## Manual Installation Instructions
 If [Userstyles.org](https://userstyles.org) isn't working for you, you can install the skin manually.
