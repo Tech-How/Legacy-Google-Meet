@@ -12,21 +12,21 @@ Google is ditching the well-loved classic design of its Meet product. But I wasn
 [View release notes & CSS code](https://github.com/Tech-How/Legacy-Google-Meet/releases)
 
 ## 1.4 Alpha Release Notes
---Fixed 'Asking to join' text not displaying properly
---Fixed check marks not displaying properly when inviting people
---Reduced intensity of white borders around some buttons
---Started to revert fonts to classic design and size
---Removed clock in bottom-left, as it was not there in the classic design
---Changed 'Learn more' about google meet to green
---Changed Allow/Deny box in the problem report section to green
---Changed elements in the 'Report abuse' section to green
---Changed tabs in the 'Check audio and video' section to green
---Changed Deny/Admit entry to green
---Changed 'Take over from main presenter' to green
---Changed present toggle button to green
---Changed 'Copy joining info' button to gray
---Changed 'Presentation audio' button to green
---Changed background in 'How was the audio and video?' section to match background
+- Fixed 'Asking to join' text not displaying properly
+- Fixed check marks not displaying properly when inviting people
+- Reduced intensity of white borders around some buttons
+- Started to revert fonts to classic design and size
+- Removed clock in bottom-left, as it was not there in the classic design
+- Changed 'Learn more' about google meet to green
+- Changed Allow/Deny box in the problem report section to green
+- Changed elements in the 'Report abuse' section to green
+- Changed tabs in the 'Check audio and video' section to green
+- Changed Deny/Admit entry to green
+- Changed 'Take over from main presenter' to green
+- Changed present toggle button to green
+- Changed 'Copy joining info' button to gray
+- Changed 'Presentation audio' button to green
+- Changed background in 'How was the audio and video?' section to match background
 
 --Thanks for your support!
 
