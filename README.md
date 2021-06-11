@@ -8,7 +8,7 @@ Google is ditching the well-loved classic design of its Meet product. But I wasn
 
 [View release notes & CSS code](https://github.com/Tech-How/Legacy-Google-Meet/releases)
 
-## 1.5 Alpha Release Notes
+## v1.5 Alpha Release Notes
 - Fixed some elements being green that weren't supposed to
 - Changed elements in 'Test audio and video' to green
 - Changed dot in captions language selector to green
