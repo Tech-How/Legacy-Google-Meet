@@ -1,3 +1,6 @@
+---
+### *New update coming soon to fix inaccurate coloring, and bring back the old chat/people/background/activities menus without rounded corners! Stay tuned!*
+---
 # Legacy Google Meet Project
 
 <img src="https://i.ibb.co/qMRNy8g/old-google-meet-colors.png"/>
