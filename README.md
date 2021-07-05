@@ -71,4 +71,4 @@ If [Userstyles.org](https://userstyles.org) isn't working for you, you can insta
 8. Click the Save button near the left of the screen.
 
 ---
-**This theme may not be copied and/or redistributed in any way, shape or form.**
+**This theme may not be copied and/or redistributed in any way, shape or form, excluding the one copy you obtain from my Userstyles or GitHub page.**
