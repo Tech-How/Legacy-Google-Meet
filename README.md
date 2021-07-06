@@ -8,26 +8,11 @@ Google is ditching the well-loved classic design of its Meet product. But I wasn
 
 [View release notes & CSS code](https://github.com/Tech-How/Legacy-Google-Meet/releases)
 
-## v1.5 Alpha Release Notes
-- Fixed some elements being green that weren't supposed to
-- Changed elements in 'Test audio and video' to green
-- Changed dot in captions language selector to green
-- Fixed blue call button when adding people via phone number
-- Restored red circle around mute icon
-- Removed rounded corners from chat and other pop-ups
-- Removed warning about messages being deleted when the call ends
-- Restored original positions, margins, and line-spacing in chat text box
-- Restored green line under chat text box, it shows that you have clicked inside the area.
-- Removed blank space under backgrounds tab
-- Fixed coloring on 'Your screen is still visible to others' popup
-- Changed elements in 'Use a phone for audio' to green
-- Changed dismiss button on 'Allow Meet to use your camera and microphone' prompt to green
-- Fixed color scheme on present box when user joined via presentation button
-- Fixed color scheme on 'What's your name?' screen, including TOS footer
-- Fixed gray background on presentation/pinned speaker (again, let me know if it comes back!)
-- Fixed rounded corners on bottom-left popups, like captions and raised hands
-- Restored original size of 'User is presenting' top banner
-- Removed rounded-corners and gaps between people. (Mainly sidebar view, it now looks like the old layout did.)
+## v1.5.1 Alpha Release Notes (Patch/Bug Fix)
+- Fixed old font reverting back to new font
+- Fixed color inconsistency on microphone warnings
+- Fixed green color on chat send button
+- Fixed green color on change layout selection dots
 
 --Thanks for your support!
 
