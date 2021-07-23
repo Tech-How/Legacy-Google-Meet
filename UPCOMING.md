@@ -1,6 +1,6 @@
 # Upcoming Changes
 
-- Fix button hover colors reverting back to the incorrect ones, thanks Google! There's a lot of buttons to go through!
+- Fix button hover colors reverting back to the incorrect ones, thanks Google! That's a lot of buttons to go through!
 - Fix Google reverting the bottom bar back to black.
 - Change preview screen before you join back to white.
 - Revert to old border-radius of popup menu.
