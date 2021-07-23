@@ -21,27 +21,16 @@ Google is ditching the well-loved classic design of its Meet product. But I wasn
 
 ## Known Issues
 - Faint blue shade appears on some clicked buttons
-
 - Classic font applies in a few places it didn't used to
-
 - Text-box borders under 'Report abuse' section remain blue (Cannot find the classes)
-
 - 'More phone numbers' button missing
-
 - Icon for the 'Auto' layout still blue
-
 - 'Tell us more' button remains white in the troubleshooting pannel
-
 - Some heading text appears light gray
-
 - 'Call me' button remains white
-
 - Some pop-ups appear right up against the control bar
-
 - Polls, breakout rooms, Q&A, meeting streaming, and other G Suite only colors may still be blue. Sadly, I do not have my own G Suite account, so I don't have access to the necessary tools to convert the CSS code for those elements :(
-
 - Graphs in 'Troubleshooting & help' section are still blue (I've looked forever and can't find the class associated with the graphs! If you have an idea, lemme know!)
-
 - More of a gap between the 'You're presenting' bar and the video
 
 
