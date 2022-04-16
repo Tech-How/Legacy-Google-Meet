@@ -48,7 +48,7 @@ Google is ditching the well-loved classic design of its Meet product. But I wasn
 ## Manual Installation Instructions
 If [Userstyles.org](https://userstyles.org) isn't working for you, you can install the skin manually.
 
-1. Install the Stylish *[extension](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe)* (or any manager of your choosing, although instructions may vary.)
+1. Install the Stylish *[extension](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe)* (You can use other style managers, but they may cause style glitches and instructions will vary.)
 2. Right-click on the extension, and open the options page.
 3. Click 'Write new style'
 4. Enter a name for the style.
