@@ -8,8 +8,6 @@ Google is ditching the well-loved classic design of its Meet product. But I wasn
 
 **[Get update notifications](https://docs.google.com/forms/d/e/1FAIpQLSdSd3pEq-AlORiGjvSsPOyqWzx-bVH1v3S8E6o1y_12ljb7-w/viewform?usp=pp_url&entry.635720994=Subscribe+to+update+notifications)**
 
-[View release notes & CSS code](https://github.com/Tech-How/Legacy-Google-Meet/releases)
-
 ## v1.5.2 Alpha Release Notes (Bug Fix/Feature Update)
 - Fixed control bar not being white
 - Fixed user name fonts while video on
