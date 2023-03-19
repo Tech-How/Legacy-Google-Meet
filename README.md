@@ -40,18 +40,5 @@ Google is ditching the well-loved classic design of its Meet product. But I wasn
 
 - Host meeting controls button invisible. Google hardcoded that by using a direct image hotlink :(
 
-
-## Manual Installation Instructions
-If [Userstyles.org](https://userstyles.org) isn't working for you, you can install the skin manually.
-
-1. Install the Stylish *[extension](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe)* (You can use other style managers, but they may cause style glitches and instructions will vary.)
-2. Right-click on the extension, and open the options page.
-3. Click 'Write new style'
-4. Enter a name for the style.
-5. Navigate to the [releases page,](https://github.com/Tech-How/Legacy-Google-Meet/releases) and scroll down to download the 'theme.css' file.
-6. Copy the CSS code into the new style.
-7. At the bottom of the code box, click 'Specify'. Select *'URLs on the domain'* and enter *'meet.google.com'.*
-8. Click the Save button near the left of the screen.
-
 ---
 **This theme may not be copied and/or redistributed in any way, shape or form, excluding the one copy you obtain from my Userstyles or GitHub page.**
