@@ -6,6 +6,8 @@ Google is ditching the well-loved classic design of its Meet product. But I wasn
 
 [![Install with Stylus](https://raw.githubusercontent.com/Tech-How/Legacy-Google-Meet/main/images/repo/readme/install-button.png)](https://userstyles.world/style/8987/legacy-google-meet)
 
+[Need help installing?](https://github.com/Tech-How/Legacy-Google-Meet/blob/main/HELP.md)
+
 ## v1.5.2 Alpha Release Notes (Bug Fix/Feature Update)
 - Fixed control bar not being white
 - Fixed user name fonts while video on
