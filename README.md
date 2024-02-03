@@ -41,6 +41,3 @@ Google is ditching the well-loved classic design of its Meet product. But I wasn
 - More of a gap between the 'You're presenting' bar and the video
 
 - Host meeting controls button invisible. Google hardcoded that by using a direct image hotlink :(
-
----
-**This theme may not be copied and/or redistributed in any way, shape or form, excluding the one copy you obtain from my Userstyles or GitHub page.**
